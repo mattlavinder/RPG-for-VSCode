@@ -73,7 +73,7 @@
 		</dict>
 		<dict>
 			<key>match</key>
-			<string>(?i)\b(dcl-s|dcl-c|dcl-ds|end-ds|dcl-pi|end-pi|dcl-pr|end-pr)\b</string>
+			<string>(?i)\b(dcl-f|dcl-s|dcl-c|dcl-ds|end-ds|dcl-pi|end-pi|dcl-pr|end-pr)\b</string>
 			<key>name</key>
 			<string>storage.type.rpg</string>
 		</dict>
